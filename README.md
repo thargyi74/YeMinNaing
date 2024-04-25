@@ -1,2 +1,2 @@
-# YeMinNaing.github.io
+# YeMinNaing
 Ye Min Naing Portfolio
